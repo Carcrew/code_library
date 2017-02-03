@@ -1,0 +1,618 @@
+
+<!DOCTYPE html>
+<html lang="en" class=" emoji-size-boost is-u2f-enabled">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
+    <meta charset='utf-8'>
+    <meta content="origin-when-cross-origin" name="referrer" />
+
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-298818692f75de57d67115ca5a0c1f983d1d5ad302774216c297495f46f0a3da.css" integrity="sha256-KYgYaS913lfWcRXKWgwfmD0dWtMCd0IWwpdJX0bwo9o=" media="all" rel="stylesheet" />
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-9816fb939a70a24908a580c7c58f881bdc072e579a6f246da6ef9df3f87444a6.css" integrity="sha256-mBb7k5pwokkIpYDHxY+IG9wHLleabyRtpu+d8/h0RKY=" media="all" rel="stylesheet" />
+    
+    
+    
+    
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="viewport" content="width=device-width">
+    
+    <title>GitHub</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+    <meta property="fb:app_id" content="1401488693436528">
+
+      <meta property="og:url" content="https://github.com">
+      <meta property="og:site_name" content="GitHub">
+      <meta property="og:title" content="Build software better, together">
+      <meta property="og:description" content="GitHub is where people build software. More than 19 million people use GitHub to discover, fork, and contribute to over 51 million projects.">
+      <meta property="og:image" content="https://assets-cdn.github.com/images/modules/open_graph/github-logo.png">
+      <meta property="og:image:type" content="image/png">
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="1200">
+      <meta property="og:image" content="https://assets-cdn.github.com/images/modules/open_graph/github-mark.png">
+      <meta property="og:image:type" content="image/png">
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="620">
+      <meta property="og:image" content="https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png">
+      <meta property="og:image:type" content="image/png">
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="620">
+      <meta property="twitter:site" content="github">
+      <meta property="twitter:site:id" content="13334762">
+      <meta property="twitter:creator" content="github">
+      <meta property="twitter:creator:id" content="13334762">
+      <meta property="twitter:card" content="summary_large_image">
+      <meta property="twitter:title" content="GitHub">
+      <meta property="twitter:description" content="GitHub is where people build software. More than 19 million people use GitHub to discover, fork, and contribute to over 51 million projects.">
+      <meta property="twitter:image:src" content="https://assets-cdn.github.com/images/modules/open_graph/github-logo.png">
+      <meta property="twitter:image:width" content="1200">
+      <meta property="twitter:image:height" content="1200">
+      <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+    <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+    <link rel="assets" href="https://assets-cdn.github.com/">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTUwNzI2MTA4OjUwMjA2ZmMzZDg4MDM0Y2Y3MDU0YzE0NWJiZjNhMjBlODI1NzNkNDAwMTY2OGI5ZWEzMWI0OGY1YTQxMjg3OWY=--dc5d060fa1fc95e3e2245e0ebb088260ad67469c">
+    <meta name="pjax-timeout" content="1000">
+    <link rel="sudo-modal" href="/sessions/sudo_modal">
+    <meta name="request-id" content="C1D1:2FFDF:45E0E43:70CF375:58918118" data-pjax-transient>
+
+    <meta name="msapplication-TileImage" content="/windows-tile.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="selected-link" value="/" data-pjax-transient>
+
+    <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+<meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+    <meta name="google-analytics" content="UA-3769691-2">
+
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="C1D1:2FFDF:45E0E43:70CF375:58918118" name="octolytics-dimension-request_id" /><meta content="21261512" name="octolytics-actor-id" /><meta content="Carcrew" name="octolytics-actor-login" /><meta content="6b4791f69bab3f628dec942dcf4dfd0fe0f9dc4ed3b54a060409c162a9791c98" name="octolytics-actor-hash" />
+<meta content="/dashboard" data-pjax-transient="true" name="analytics-location" />
+
+
+
+  <meta class="js-ga-set" name="dimension1" content="Logged In">
+
+
+
+        <meta name="hostname" content="github.com">
+    <meta name="user-login" content="Carcrew">
+
+        <meta name="expected-hostname" content="github.com">
+      <meta name="js-proxy-site-detection-payload" content="ZDVlMmFkMGNiNmQyYTNhNzQ0NWJmMDdlOTc3YjZiOTlkODFiYzIzZTlkOGU2ZTA2ZjJiODQ0MzcwZjM5ZDc1OHx7InJlbW90ZV9hZGRyZXNzIjoiMTE2LjcyLjIyNS4yMzUiLCJyZXF1ZXN0X2lkIjoiQzFEMToyRkZERjo0NUUwRTQzOjcwQ0YzNzU6NTg5MTgxMTgiLCJ0aW1lc3RhbXAiOjE0ODU5MzA3NzYsImhvc3QiOiJnaXRodWIuY29tIn0=">
+
+
+      <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#000000">
+      <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
+
+    <meta name="html-safe-nonce" content="b6c5e3805a1ebe22381b2201f17ea6cfc2d5d82c">
+
+    <meta http-equiv="x-pjax-version" content="54ba69bf431d706516d9d48c7394f547">
+    
+
+        <link href="/Carcrew.private.atom?token=AURsyAljQ5rQ9mSYmW_vfakXiPfwKRjiks62nWIYwA==" rel="alternate" title="ATOM" type="application/atom+xml" />
+
+
+  </head>
+
+
+  <body class="logged-in  env-production macintosh  page-dashboard">
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+    <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
+
+    
+    
+    
+
+
+
+        <div class="header header-logged-in true" role="banner">
+  <div class="container clearfix">
+
+    <a class="header-logo-invertocat" href="https://github.com/" data-hotkey="g d" aria-label="Homepage" data-ga-click="Header, go to dashboard, icon:logo">
+  <svg aria-hidden="true" class="octicon octicon-mark-github" height="28" version="1.1" viewBox="0 0 16 16" width="28"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+
+
+        <div class="header-search   js-site-search" role="search">
+  <form accept-charset="UTF-8" action="/search" class="js-site-search-form" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+    <label class="form-control header-search-wrapper js-chromeless-input-container">
+      <div class="header-search-scope"></div>
+      <input type="text"
+        class="form-control header-search-input js-site-search-focus "
+        data-hotkey="s"
+        name="q"
+        placeholder="Search GitHub"
+        aria-label="Search GitHub"
+        data-unscoped-placeholder="Search GitHub"
+        data-scoped-placeholder="Search"
+        autocapitalize="off">
+    </label>
+</form></div>
+
+
+      <ul class="header-nav float-left" role="navigation">
+        <li class="header-nav-item">
+          <a href="/pulls" aria-label="Pull requests you created" class="js-selected-navigation-item header-nav-link" data-ga-click="Header, click, Nav menu - item:pulls context:user" data-hotkey="g p" data-selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls">
+            Pull requests
+</a>        </li>
+        <li class="header-nav-item">
+          <a href="/issues" aria-label="Issues you created" class="js-selected-navigation-item header-nav-link" data-ga-click="Header, click, Nav menu - item:issues context:user" data-hotkey="g i" data-selected-links="/issues /issues/assigned /issues/mentioned /issues">
+            Issues
+</a>        </li>
+          <li class="header-nav-item">
+            <a class="header-nav-link" href="https://gist.github.com/" data-ga-click="Header, go to gist, text:gist">Gist</a>
+          </li>
+      </ul>
+
+    
+<ul class="header-nav user-nav float-right" id="user-links">
+  <li class="header-nav-item">
+    
+
+  </li>
+
+  <li class="header-nav-item dropdown js-menu-container">
+    <a class="header-nav-link tooltipped tooltipped-s js-menu-target" href="/new"
+       aria-label="Create new…"
+       data-ga-click="Header, create new, icon:add">
+      <svg aria-hidden="true" class="octicon octicon-plus float-left" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 9H7v5H5V9H0V7h5V2h2v5h5z"/></svg>
+      <span class="dropdown-caret"></span>
+    </a>
+
+    <div class="dropdown-menu-content js-menu-content">
+      <ul class="dropdown-menu dropdown-menu-sw">
+        
+<a class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
+  New repository
+</a>
+
+  <a class="dropdown-item" href="/new/import" data-ga-click="Header, import a repository">
+    Import repository
+  </a>
+
+<a class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, create new gist">
+  New gist
+</a>
+
+  <a class="dropdown-item" href="/organizations/new" data-ga-click="Header, create new organization">
+    New organization
+  </a>
+
+
+
+
+      </ul>
+    </div>
+  </li>
+
+  <li class="header-nav-item dropdown js-menu-container">
+    <a class="header-nav-link name tooltipped tooltipped-sw js-menu-target" href="/Carcrew"
+       aria-label="View profile and more"
+       data-ga-click="Header, show menu, icon:avatar">
+      <img alt="@Carcrew" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/21261512?v=3&amp;s=40" width="20" />
+      <span class="dropdown-caret"></span>
+    </a>
+
+    <div class="dropdown-menu-content js-menu-content">
+      <div class="dropdown-menu dropdown-menu-sw">
+        <div class="dropdown-header header-nav-current-user css-truncate">
+          Signed in as <strong class="css-truncate-target">Carcrew</strong>
+        </div>
+
+        <div class="dropdown-divider"></div>
+
+        <a class="dropdown-item" href="/Carcrew" data-ga-click="Header, go to profile, text:your profile">
+          Your profile
+        </a>
+        <a class="dropdown-item" href="/Carcrew?tab=stars" data-ga-click="Header, go to starred repos, text:your stars">
+          Your stars
+        </a>
+        <a class="dropdown-item" href="/explore" data-ga-click="Header, go to explore, text:explore">
+          Explore
+        </a>
+          <a class="dropdown-item" href="/integrations" data-ga-click="Header, go to integrations, text:integrations">
+            Integrations
+          </a>
+        <a class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">
+          Help
+        </a>
+
+        <div class="dropdown-divider"></div>
+
+        <a class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">
+          Settings
+        </a>
+
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="/gREnKfoLIDpKAPEzeJBEV+gFkLv90nNxZ+ws17gdA6HnaW4xxk55jC3MP+KvIOhPniQrkJ3LWI+FKJK90wAQA==" /></div>
+          <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
+            Sign out
+          </button>
+</form>      </div>
+    </div>
+  </li>
+</ul>
+
+
+    
+  </div>
+</div>
+
+
+      
+
+
+    <div id="start-of-content" class="accessibility-aid"></div>
+
+      <div id="js-flash-container">
+</div>
+
+
+    <div role="main">
+
+      <div id="js-pjax-container" data-pjax-container>
+        
+
+
+
+
+
+
+<div class="container page-content">
+
+
+  <div id="dashboard" class="columns dashboard" data-ga-load="Dashboard, view, context:user">
+    <div class="news column two-thirds">
+        <div class="select-menu account-switcher js-menu-container js-select-menu">
+  <button class="btn select-menu-button with-gravatar js-menu-target" aria-haspopup="true" aria-label="Switch account context" type="button" tabindex="0" data-ga-click="Dashboard, click, Opened account context switcher">
+    <div class="select-menu-button-gravatar js-select-button-gravatar">
+      <img alt="@Carcrew" height="20" src="https://avatars3.githubusercontent.com/u/21261512?v=3&amp;s=40" width="20" />
+    </div>
+    <span class="js-select-button css-truncate css-truncate-target">Carcrew</span>
+  </button>
+
+  <div class="select-menu-modal-holder js-menu-content" role="menu" aria-labelledby="context-switch-title" aria-hidden="true">
+    <div class="select-menu-modal js-navigation-container">
+      <div class="select-menu-header js-navigation-enable" tabindex="-1">
+        <svg aria-label="Close" class="octicon octicon-x js-menu-close" height="16" role="img" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+        <span class="select-menu-title" id="context-switch-title">Switch dashboard context</span>
+      </div>
+
+
+
+          <div class="select-menu-list">
+            <div data-filterable-for="context-context-filter-field" data-filterable-type="fuzzy">
+              <a href="/" role="menuitem" class="select-menu-item js-navigation-item js-navigation-open selected" data-ga-click="Dashboard, switch context, Switch dashboard context from:user to:user">
+                <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+                <div class="select-menu-item-gravatar">
+                  <img alt="@Carcrew" height="20" src="https://avatars3.githubusercontent.com/u/21261512?v=3&amp;s=40" width="20" />
+                </div>
+                <span class="select-menu-item-text">
+                  Carcrew
+                </span>
+              </a>
+              <a href="/orgs/Carcrew1/dashboard" role="menuitem" class="select-menu-item js-navigation-item js-navigation-open" data-ga-click="Dashboard, switch context, Switch dashboard context from:user to:organization">
+                <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+                <div class="select-menu-item-gravatar">
+                  <img alt="@Carcrew1" height="20" src="https://avatars2.githubusercontent.com/u/21262810?v=3&amp;s=40" width="20" />
+                </div>
+                <span class="select-menu-item-text">
+                  Carcrew1
+                </span>
+              </a>
+            </div>
+          </div>
+
+          <div class="select-menu-list">
+            <a href="/account/organizations" class="select-menu-item select-menu-action js-navigation-item js-navigation-open" data-ga-click="Dashboard, click, Manage orgs link in context switcher - context:user">
+              <svg aria-hidden="true" class="octicon octicon-organization select-menu-item-icon" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M16 12.999c0 .439-.45 1-1 1H7.995c-.539 0-.994-.447-.995-.999H1c-.54 0-1-.561-1-1 0-2.634 3-4 3-4s.229-.409 0-1c-.841-.621-1.058-.59-1-3 .058-2.419 1.367-3 2.5-3s2.442.58 2.5 3c.058 2.41-.159 2.379-1 3-.229.59 0 1 0 1s1.549.711 2.42 2.088C9.196 9.369 10 8.999 10 8.999s.229-.409 0-1c-.841-.62-1.058-.59-1-3 .058-2.419 1.367-3 2.5-3s2.437.581 2.495 3c.059 2.41-.158 2.38-1 3-.229.59 0 1 0 1s3.005 1.366 3.005 4"/></svg>
+              <span class="select-menu-item-text">Manage organizations</span>
+            </a>
+              <a href="/account/organizations/new" class="select-menu-item select-menu-action js-navigation-item js-navigation-open" data-ga-click="Dashboard, click, Create org link in context switcher - context:user first:false">
+                <svg aria-hidden="true" class="octicon octicon-plus select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 9H7v5H5V9H0V7h5V2h2v5h5z"/></svg>
+                <span class="select-menu-item-text">Create organization</span>
+              </a>
+          </div>
+
+
+    </div>
+  </div>
+</div>
+
+
+      
+
+            <div class="alert fork simple"><div class="body"><!-- fork -->
+<div class="simple">
+  <svg aria-label="Fork" class="octicon octicon-git-branch dashboard-event-icon" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+
+  <div class="title">
+    <a href="/Carcrew1" data-ga-click="News feed, event click, Event click type:ForkEvent target:actor">Carcrew1</a> forked <a href="/Carcrew/carcrewfleet" data-ga-click="News feed, event click, Event click type:ForkEvent target:repo">Carcrew/carcrewfleet</a> to <a href="/Carcrew1/carcrewfleet" data-ga-click="News feed, event click, Event click type:ForkEvent target:parent" title="Carcrew1/carcrewfleet">Carcrew1/carcrewfleet</a>
+  </div>
+
+  <div class="time">
+    <relative-time datetime="2017-01-05T13:32:59Z">Jan 5, 2017</relative-time>
+  </div>
+</div>
+</div></div>
+            <div class="alert fork simple"><div class="body"><!-- fork -->
+<div class="simple">
+  <svg aria-label="Fork" class="octicon octicon-git-branch dashboard-event-icon" height="16" role="img" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+
+  <div class="title">
+    <a href="/rishavgoyal93" data-ga-click="News feed, event click, Event click type:ForkEvent target:actor">rishavgoyal93</a> forked <a href="/Carcrew/django-social-auth-example" data-ga-click="News feed, event click, Event click type:ForkEvent target:repo">Carcrew/django-social-auth-example</a> to <a href="/rishavgoyal93/django-social-auth-example" data-ga-click="News feed, event click, Event click type:ForkEvent target:parent" title="rishavgoyal93/django-social-auth-example">rishavgoyal93/django-social-auth-example</a>
+  </div>
+
+  <div class="time">
+    <relative-time datetime="2017-01-04T09:39:44Z">Jan 4, 2017</relative-time>
+  </div>
+</div>
+</div></div>
+            <div class="alert push"><div class="body"><!-- push -->
+<svg aria-label="Push" class="octicon octicon-git-commit dashboard-event-icon" height="32" role="img" version="1.1" viewBox="0 0 14 16" width="28"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"/></svg>
+
+<div class="time">
+  <relative-time datetime="2016-12-12T09:07:04Z">Dec 12, 2016</relative-time>
+</div>
+
+<div class="title">
+  <a href="/internetOfThings123" data-ga-click="News feed, event click, Event click type:PushEvent target:actor">internetOfThings123</a> pushed to <a href="/Carcrew/carcrewfleet/tree/master" data-ga-click="News feed, event click, Event click type:PushEvent target:branch">master</a> at <a href="/Carcrew/carcrewfleet" data-ga-click="News feed, event click, Event click type:PushEvent target:repo">Carcrew/carcrewfleet</a>
+</div>
+
+<div class="details">
+  <a href="/internetOfThings123"><img alt="@internetOfThings123" class="gravatar" height="30" src="https://avatars0.githubusercontent.com/u/24319856?v=3&amp;s=60" width="30" /></a>
+
+    <div class="commits ">
+      <ul>
+        <li>
+          <span title="Ajit Maya">
+            <img alt="" data-canonical-src="https://0.gravatar.com/avatar/032bc16b689247944c7e214fa515e94f?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=x&amp;s=140" height="16" src="https://camo.githubusercontent.com/6cb60f18af87de79e89746fad784d552a55b3a05/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f30333262633136623638393234373934346337653231346661353135653934663f643d68747470732533412532462532466173736574732d63646e2e6769746875622e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d7826733d313430" width="16" />
+          </span>
+          <code><a href="/Carcrew/carcrewfleet/commit/ba47e626b4ecd221105ab960e661528da72eb27b" data-ga-click="News feed, event click, Event click type:PushEvent target:sha">ba47e62</a></code>
+          <div class="message">
+            <blockquote>
+              added new file for deployment
+            </blockquote>
+          </div>
+        </li>
+      </ul>
+    </div>
+</div>
+</div></div>
+
+
+        <div class="text-center">
+
+          <div class="mt-4">
+            <svg aria-hidden="true" class="octicon octicon-light-bulb text-gray" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"/></svg>
+            <strong>ProTip!</strong>
+            Edit your feed by updating the users you <a href="/Carcrew/following">follow</a> and repositories you <a href="/watching">watch</a>.
+          </div>
+
+          <a class="link-gray-dark mt-3 d-inline-block" href="/Carcrew.private.atom?token=AURsyAljQ5rQ9mSYmW_vfakXiPfwKRjiks62nWIYwA==" data-ga-click="Dashboard, click, News feed atom/RSS link - context:user"><svg aria-hidden="true" class="octicon octicon-rss mr-1" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M2 13H0v-2c1.11 0 2 .89 2 2zM0 3v1a9 9 0 0 1 9 9h1C10 7.48 5.52 3 0 3zm0 4v1c2.75 0 5 2.25 5 5h1c0-3.31-2.69-6-6-6z"/></svg>Subscribe to <strong>your</strong> news feed</a>
+
+        </div>
+
+    </div>
+
+    <div class="dashboard-sidebar column one-third">
+      <div class="octofication js-notice">
+  <div class="message">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/account/read_broadcast/2308" class="notice-dismiss js-notice-dismiss" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="_method" type="hidden" value="put" /><input name="authenticity_token" type="hidden" value="GHqSAcO5qmA28jksYXa9nhu8JE9lZXqhrj8le9SyWPoRvb3AmoALC84yDRY6Fa/FOOe1N5sh14tnl1psMVCE/A==" /></div>
+      <button
+          type="submit"
+          class="close-button"
+          data-ga-click="Dashboard, dismiss broadcast, New and improved two-factor lockout recovery process"
+          data-ga-load="Dashboard, load broadcast, New and improved two-factor lockout recovery process">
+        <svg aria-label="Close" class="octicon octicon-x" height="16" role="img" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+      </button>
+</form>    <div class="broadcast-icon">
+      <svg aria-hidden="true" class="octicon octicon-radio-tower" height="32" version="1.1" viewBox="0 0 16 16" width="32"><path fill-rule="evenodd" d="M4.79 6.11c.25-.25.25-.67 0-.92-.32-.33-.48-.76-.48-1.19 0-.43.16-.86.48-1.19.25-.26.25-.67 0-.92a.613.613 0 0 0-.45-.19c-.16 0-.33.06-.45.19-.57.58-.85 1.35-.85 2.11 0 .76.29 1.53.85 2.11.25.25.66.25.9 0zM2.33.52a.651.651 0 0 0-.92 0C.48 1.48.01 2.74.01 3.99c0 1.26.47 2.52 1.4 3.48.25.26.66.26.91 0s.25-.68 0-.94c-.68-.7-1.02-1.62-1.02-2.54 0-.92.34-1.84 1.02-2.54a.66.66 0 0 0 .01-.93zm5.69 5.1A1.62 1.62 0 1 0 6.4 4c-.01.89.72 1.62 1.62 1.62zM14.59.53a.628.628 0 0 0-.91 0c-.25.26-.25.68 0 .94.68.7 1.02 1.62 1.02 2.54 0 .92-.34 1.83-1.02 2.54-.25.26-.25.68 0 .94a.651.651 0 0 0 .92 0c.93-.96 1.4-2.22 1.4-3.48A5.048 5.048 0 0 0 14.59.53zM8.02 6.92c-.41 0-.83-.1-1.2-.3l-3.15 8.37h1.49l.86-1h4l.84 1h1.49L9.21 6.62c-.38.2-.78.3-1.19.3zm-.01.48L9.02 11h-2l.99-3.6zm-1.99 5.59l1-1h2l1 1h-4zm5.19-11.1c-.25.25-.25.67 0 .92.32.33.48.76.48 1.19 0 .43-.16.86-.48 1.19-.25.26-.25.67 0 .92a.63.63 0 0 0 .9 0c.57-.58.85-1.35.85-2.11 0-.76-.28-1.53-.85-2.11a.634.634 0 0 0-.9 0z"/></svg>
+      <span class="broadcast-icon-mask"></span>
+      <span class="broadcast-icon-mask"></span>
+    </div>
+    <h3><a href="/blog/2308-new-and-improved-two-factor-lockout-recovery-process" data-ga-click="Dashboard, read broadcast, New and improved two-factor lockout recovery process">New and improved two-factor lockout recovery process</a></h3>
+    <p>New and improved two-factor lockout recovery process</p>
+  </div>
+  <div class="octofication-more">
+    <a href="/blog/broadcasts">
+        View <strong>2</strong> new broadcasts
+    </a>
+  </div>
+</div>
+
+
+      
+
+      
+        <div class="boxed-group flush repos user-repos js-repo-filter" id="your_repos" role="navigation">
+          <div class="boxed-group-action">
+            <a href="/new" class="btn btn-sm btn-primary" data-ga-click="Dashboard, click, Sidebar header new repo button - context:user">
+              New repository
+</a>          </div>
+          <h3>Your repositories <span class="counter">11</span></h3>
+          <div class="boxed-group-inner">
+              <div class="filter-repos filter-bar" role="search">
+                <input type="text" id="your-repos-filter" class="form-control input-sm input-block js-filterable-field" placeholder="Find a repository&hellip;" aria-label="Find a repository&hellip;" tabindex="2">
+                <ul class="repo-filterer">
+                  <li><button type="button" class="btn-link repo-filter text-small text-gray js-repo-filter-tab filter-selected" data-filter=".public, li.private" data-ga-click="Dashboard, click, Repo list filter - context:user filter:all">All</button></li>
+                  <li><button type="button" class="btn-link repo-filter text-small text-gray js-repo-filter-tab" data-filter=".public" data-ga-click="Dashboard, click, Repo list filter - context:user filter:public">Public</button></li>
+                  <li><button type="button" class="btn-link repo-filter text-small text-gray js-repo-filter-tab" data-filter=".private" data-ga-click="Dashboard, click, Repo list filter - context:user filter:private">Private</button></li>
+                  <li><button type="button" class="btn-link repo-filter text-small text-gray js-repo-filter-tab" data-filter=".source" data-ga-click="Dashboard, click, Repo list filter - context:user filter:sources">Sources</button></li>
+                  <li><button type="button" class="btn-link repo-filter text-small text-gray js-repo-filter-tab" data-filter=".fork" data-ga-click="Dashboard, click, Repo list filter: forks">Forks</button></li>
+                </ul>
+              </div>
+              <ul id="repo_listing" class="mini-repo-list js-repo-list" data-filterable-for="your-repos-filter" data-filterable-type="substring">
+                  <li class="private source">
+    <a  class="mini-repo-list-item css-truncate" href="/Carcrew/IRA" data-ga-click="Dashboard, click, Repo list item click - context:user visibility:private fork:false">
+        <svg aria-hidden="true" class="octicon octicon-lock repo-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M4 13H3v-1h1v1zm8-6v7c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h1V4c0-2.2 1.8-4 4-4s4 1.8 4 4v2h1c.55 0 1 .45 1 1zM3.8 6h4.41V4c0-1.22-.98-2.2-2.2-2.2-1.22 0-2.2.98-2.2 2.2v2H3.8zM11 7H2v7h9V7zM4 8H3v1h1V8zm0 2H3v1h1v-1z"/></svg>
+      <span class="repo-and-owner css-truncate-target" title="Carcrew/IRA">
+        <span class="repo">IRA</span>
+      </span>
+    </a>
+  </li>
+  <li class="private source">
+    <a  class="mini-repo-list-item css-truncate" href="/Carcrew/Part_Search" data-ga-click="Dashboard, click, Repo list item click - context:user visibility:private fork:false">
+        <svg aria-hidden="true" class="octicon octicon-lock repo-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M4 13H3v-1h1v1zm8-6v7c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h1V4c0-2.2 1.8-4 4-4s4 1.8 4 4v2h1c.55 0 1 .45 1 1zM3.8 6h4.41V4c0-1.22-.98-2.2-2.2-2.2-1.22 0-2.2.98-2.2 2.2v2H3.8zM11 7H2v7h9V7zM4 8H3v1h1V8zm0 2H3v1h1v-1z"/></svg>
+      <span class="repo-and-owner css-truncate-target" title="Carcrew/Part_Search">
+        <span class="repo">Part_Search</span>
+      </span>
+    </a>
+  </li>
+  <li class="private source">
+    <a  class="mini-repo-list-item css-truncate" href="/Carcrew/carcrewfleet" data-ga-click="Dashboard, click, Repo list item click - context:user visibility:private fork:false">
+        <svg aria-hidden="true" class="octicon octicon-lock repo-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M4 13H3v-1h1v1zm8-6v7c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h1V4c0-2.2 1.8-4 4-4s4 1.8 4 4v2h1c.55 0 1 .45 1 1zM3.8 6h4.41V4c0-1.22-.98-2.2-2.2-2.2-1.22 0-2.2.98-2.2 2.2v2H3.8zM11 7H2v7h9V7zM4 8H3v1h1V8zm0 2H3v1h1v-1z"/></svg>
+      <span class="repo-and-owner css-truncate-target" title="Carcrew/carcrewfleet">
+        <span class="repo">carcrewfleet</span>
+      </span>
+    </a>
+  </li>
+  <li class="public fork">
+    <a  class="mini-repo-list-item css-truncate" href="/Carcrew/django-allauth" data-ga-click="Dashboard, click, Repo list item click - context:user visibility:public fork:true">
+        <svg aria-hidden="true" class="octicon octicon-repo-forked repo-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span class="repo-and-owner css-truncate-target" title="Carcrew/django-allauth">
+        <span class="repo">django-allauth</span>
+      </span>
+    </a>
+  </li>
+  <li class="public fork">
+    <a  class="mini-repo-list-item css-truncate" href="/Carcrew/algoliasearch-django-example" data-ga-click="Dashboard, click, Repo list item click - context:user visibility:public fork:true">
+        <svg aria-hidden="true" class="octicon octicon-repo-forked repo-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span class="repo-and-owner css-truncate-target" title="Carcrew/algoliasearch-django-example">
+        <span class="repo">algoliasearch-django-example</span>
+      </span>
+    </a>
+  </li>
+  <li class="private source">
+    <a  class="mini-repo-list-item css-truncate" href="/Carcrew/Product_Delivery_Workspace" data-ga-click="Dashboard, click, Repo list item click - context:user visibility:private fork:false">
+        <svg aria-hidden="true" class="octicon octicon-lock repo-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M4 13H3v-1h1v1zm8-6v7c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h1V4c0-2.2 1.8-4 4-4s4 1.8 4 4v2h1c.55 0 1 .45 1 1zM3.8 6h4.41V4c0-1.22-.98-2.2-2.2-2.2-1.22 0-2.2.98-2.2 2.2v2H3.8zM11 7H2v7h9V7zM4 8H3v1h1V8zm0 2H3v1h1v-1z"/></svg>
+      <span class="repo-and-owner css-truncate-target" title="Carcrew/Product_Delivery_Workspace">
+        <span class="repo">Product_Delivery_Workspace</span>
+      </span>
+    </a>
+  </li>
+  <li class="public fork">
+    <a  class="mini-repo-list-item css-truncate" href="/Carcrew/algoliasearch-django" data-ga-click="Dashboard, click, Repo list item click - context:user visibility:public fork:true">
+        <svg aria-hidden="true" class="octicon octicon-repo-forked repo-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span class="repo-and-owner css-truncate-target" title="Carcrew/algoliasearch-django">
+        <span class="repo">algoliasearch-django</span>
+      </span>
+    </a>
+  </li>
+  <li class="public source">
+    <a  class="mini-repo-list-item css-truncate" href="/Carcrew/workspace" data-ga-click="Dashboard, click, Repo list item click - context:user visibility:public fork:false">
+        <svg aria-hidden="true" class="octicon octicon-repo repo-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+      <span class="repo-and-owner css-truncate-target" title="Carcrew/workspace">
+        <span class="repo">workspace</span>
+      </span>
+    </a>
+  </li>
+  <li class="public source">
+    <a  class="mini-repo-list-item css-truncate" href="/Carcrew/carcrew_uber" data-ga-click="Dashboard, click, Repo list item click - context:user visibility:public fork:false">
+        <svg aria-hidden="true" class="octicon octicon-repo repo-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+      <span class="repo-and-owner css-truncate-target" title="Carcrew/carcrew_uber">
+        <span class="repo">carcrew_uber</span>
+      </span>
+    </a>
+  </li>
+  <li class="public fork">
+    <a  class="mini-repo-list-item css-truncate" href="/Carcrew/InvoiceGenerator" data-ga-click="Dashboard, click, Repo list item click - context:user visibility:public fork:true">
+        <svg aria-hidden="true" class="octicon octicon-repo-forked repo-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span class="repo-and-owner css-truncate-target" title="Carcrew/InvoiceGenerator">
+        <span class="repo">InvoiceGenerator</span>
+      </span>
+    </a>
+  </li>
+  <li class="public fork">
+    <a  class="mini-repo-list-item css-truncate" href="/Carcrew/django-social-auth-example" data-ga-click="Dashboard, click, Repo list item click - context:user visibility:public fork:true">
+        <svg aria-hidden="true" class="octicon octicon-repo-forked repo-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span class="repo-and-owner css-truncate-target" title="Carcrew/django-social-auth-example">
+        <span class="repo">django-social-auth-example</span>
+      </span>
+    </a>
+  </li>
+
+              </ul>
+
+          </div>
+        </div>
+    </div><!-- /sidebar -->
+
+  </div><!-- /#dashboard -->
+</div><!-- /.container -->
+
+      </div>
+      <div class="modal-backdrop js-touch-events"></div>
+    </div>
+
+        <div class="container site-footer-container">
+  <div class="site-footer" role="contentinfo">
+    <ul class="site-footer-links float-right">
+        <li><a href="https://github.com/contact" data-ga-click="Footer, go to contact, text:contact">Contact GitHub</a></li>
+      <li><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+      <li><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
+        <li><a href="https://github.com/blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a href="https://github.com/about" data-ga-click="Footer, go to about, text:about">About</a></li>
+
+    </ul>
+
+    <a href="https://github.com" aria-label="Homepage" class="site-footer-mark" title="GitHub">
+      <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+    <ul class="site-footer-links">
+      <li>&copy; 2017 <span title="0.30266s from github-fe144-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+        <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
+        <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
+        <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a href="https://help.github.com" data-ga-click="Footer, go to help, text:help">Help</a></li>
+    </ul>
+  </div>
+</div>
+
+
+
+    
+
+    <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+      <svg aria-hidden="true" class="octicon octicon-alert" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"/></svg>
+      <button type="button" class="flash-close js-flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+        <svg aria-hidden="true" class="octicon octicon-x" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+      </button>
+      You can't perform that action at this time.
+    </div>
+
+
+      
+      <script crossorigin="anonymous" integrity="sha256-DmARPoGfSoSDOMKFvKQ/FG7oB7iDwK6EPYSdevWrLJk=" src="https://assets-cdn.github.com/assets/frameworks-0e60113e819f4a848338c285bca43f146ee807b883c0ae843d849d7af5ab2c99.js"></script>
+      <script async="async" crossorigin="anonymous" integrity="sha256-Z+LlNeNoybyc8Rd3FcQhxoQKgcmyJRkkuP+1c4esV9Y=" src="https://assets-cdn.github.com/assets/github-67e2e535e368c9bc9cf1177715c421c6840a81c9b2251924b8ffb57387ac57d6.js"></script>
+      
+      
+      
+      
+    <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
+      <svg aria-hidden="true" class="octicon octicon-alert" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"/></svg>
+      <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+      <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    </div>
+    <div class="facebox" id="facebox" style="display:none;">
+  <div class="facebox-popup">
+    <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
+    </div>
+    <button type="button" class="facebox-close js-facebox-close" aria-label="Close modal">
+      <svg aria-hidden="true" class="octicon octicon-x" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+    </button>
+  </div>
+</div>
+
+  </body>
+</html>
+
